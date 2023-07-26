@@ -1,0 +1,8 @@
+voice assistant
+-speech recognition
+-speech synthesis
+-chat bot
+
+speech_recognition
+pyttsx3
+nltk
