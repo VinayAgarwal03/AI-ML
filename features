@@ -5,4 +5,9 @@ voice assistant
 
 speech_recognition
 pyttsx3
-nltk
+nltk 
+
+git
+git init
+git commit -m "any message"
+git push origin main
